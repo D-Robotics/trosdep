@@ -2,3 +2,5 @@ ament_package:
   ubuntu: [tros-ament-package]
 hobot_tts:
   ubuntu: [tros-hobot-tts]
+ros_workspace:
+  ubuntu: [tros-ros-workspace]
