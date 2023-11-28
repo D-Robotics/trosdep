@@ -6,5 +6,7 @@ rcl:
   ubuntu: [tros-rcl]
 rcl_interfaces:
   ubuntu: [tros-rcl-interfaces]
+rmw_cyclonedds_cpp:
+  ubuntu: [tros-rmw-cyclonedds-cpp]
 ros_workspace:
   ubuntu: [tros-ros-workspace]
