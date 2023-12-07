@@ -28,6 +28,8 @@ rosbag2_cpp:
   ubuntu: [tros-rosbag2-cpp]
 rosbag2_storage:
   ubuntu: [tros-rosbag2-storage]
+rosbag2_storage_default_plugins:
+  ubuntu: [tros-rosbag2-storage-default-plugins]
 rosbag2_storage_mcap_testdata:
   ubuntu: [tros-rosbag2-storage-mcap-testdata]
 rosbag2_test_common:
