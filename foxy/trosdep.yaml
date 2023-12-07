@@ -36,5 +36,7 @@ rosbag2_tests:
   ubuntu: [tros-rosbag2-tests]
 shared_queues_vendor:
   ubuntu: [tros-shared-queues-vendor]
+sqlite3_vendor:
+  ubuntu: [tros-sqlite3-vendor]
 zstd_vendor:
   ubuntu: [tros-zstd-vendor]
