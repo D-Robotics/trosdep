@@ -8,6 +8,8 @@ audio_tracking:
   ubuntu: [tros-audio-tracking]
 bag_recorder_nodes:
   ubuntu: [tros-bag-recorder-nodes]
+dnn_benchmark_example:
+  ubuntu: [tros-dnn-benchmark-example]
 dnn_node:
   ubuntu: [tros-dnn-node]
 hobot-dnn:
