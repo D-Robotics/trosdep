@@ -8,6 +8,8 @@ audio_tracking:
   ubuntu: [tros-audio-tracking]
 bag_recorder_nodes:
   ubuntu: [tros-bag-recorder-nodes]
+dnn_node:
+  ubuntu: [tros-dnn-node]
 hobot-dnn:
   ubuntu: [hobot-dnn]
 hobot-multimedia-dev:
