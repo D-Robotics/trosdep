@@ -24,3 +24,5 @@ ros_workspace:
   ubuntu: [tros-ros-workspace]
 rosbag2_test_common:
   ubuntu: [tros-rosbag2-test-common]
+zstd_vendor:
+  ubuntu: [tros-zstd-vendor]
