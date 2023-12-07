@@ -26,6 +26,8 @@ rosbag2_storage_mcap_testdata:
   ubuntu: [tros-rosbag2-storage-mcap-testdata]
 rosbag2_test_common:
   ubuntu: [tros-rosbag2-test-common]
+rosbag2_tests:
+  ubuntu: [tros-rosbag2-tests]
 shared_queues_vendor:
   ubuntu: [tros-shared-queues-vendor]
 zstd_vendor:
