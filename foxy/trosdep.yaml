@@ -24,6 +24,8 @@ hobot_codec:
   ubuntu: [tros-hobot-codec]
 hobot_cv:
   ubuntu: [tros-hobot-cv]
+hobot_hdmi:
+  ubuntu: [tros-hobot-hdmi]
 hobot_llm:
   ubuntu: [tros-hobot-llm]
 hobot_tts:
