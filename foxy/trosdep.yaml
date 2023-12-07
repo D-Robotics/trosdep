@@ -28,6 +28,8 @@ rcl_interfaces:
   ubuntu: [tros-rcl-interfaces]
 rclcpp:
   ubuntu: [tros-rclcpp]
+recorder_node:
+  ubuntu: [tros-recorder-node]
 rmw_cyclonedds_cpp:
   ubuntu: [tros-rmw-cyclonedds-cpp]
 ros_workspace:
