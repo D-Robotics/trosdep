@@ -1,5 +1,7 @@
 ai_msgs:
   ubuntu: [tros-ai-msgs]
+audio_control:
+  ubuntu: [tros-audio-control]
 audio_msg:
   ubuntu: [tros-audio-msg]
 hobot-dnn:
