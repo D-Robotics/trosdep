@@ -24,6 +24,8 @@ rmw_cyclonedds_cpp:
   ubuntu: [tros-rmw-cyclonedds-cpp]
 ros_workspace:
   ubuntu: [tros-ros-workspace]
+rosbag2:
+  ubuntu: [tros-rosbag2]
 rosbag2_compression:
   ubuntu: [tros-rosbag2-compression]
 rosbag2_cpp:
