@@ -4,6 +4,8 @@ audio_control:
   ubuntu: [tros-audio-control]
 audio_msg:
   ubuntu: [tros-audio-msg]
+audio_tracking:
+  ubuntu: [tros-audio-tracking]
 hobot-dnn:
   ubuntu: [hobot-dnn]
 hobot-multimedia-dev:
