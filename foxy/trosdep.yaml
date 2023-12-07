@@ -1,4 +1,5 @@
-
+ai_msgs:
+  ubuntu: [tros-ai-msgs]
 hobot-dnn:
   ubuntu: [hobot-dnn]
 hobot-multimedia-dev:
