@@ -22,3 +22,5 @@ rmw_cyclonedds_cpp:
   ubuntu: [tros-rmw-cyclonedds-cpp]
 ros_workspace:
   ubuntu: [tros-ros-workspace]
+rosbag2_test_common:
+  ubuntu: [tros-rosbag2-test-common]
