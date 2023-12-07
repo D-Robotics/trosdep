@@ -34,6 +34,8 @@ img_msgs:
   ubuntu: [tros-img-msgs]
 imu_sensor:
   ubuntu: [tros-imu-sensor]
+mipi_cam:
+  ubuntu: [tros-mipi-cam]
 rcl:
   ubuntu: [tros-rcl]
 rcl_interfaces:
