@@ -54,5 +54,7 @@ shared_queues_vendor:
   ubuntu: [tros-shared-queues-vendor]
 sqlite3_vendor:
   ubuntu: [tros-sqlite3-vendor]
+trigger_node:
+  ubuntu: [tros-trigger-node]
 zstd_vendor:
   ubuntu: [tros-zstd-vendor]
