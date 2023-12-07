@@ -12,6 +12,8 @@ dnn_benchmark_example:
   ubuntu: [tros-dnn-benchmark-example]
 dnn_node:
   ubuntu: [tros-dnn-node]
+hbm_img_msgs:
+  ubuntu: [tros-hbm-img-msgs]
 hobot-dnn:
   ubuntu: [hobot-dnn]
 hobot-multimedia-dev:
