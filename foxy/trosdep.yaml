@@ -24,5 +24,7 @@ ros_workspace:
   ubuntu: [tros-ros-workspace]
 rosbag2_test_common:
   ubuntu: [tros-rosbag2-test-common]
+shared_queues_vendor:
+  ubuntu: [tros-shared-queues-vendor]
 zstd_vendor:
   ubuntu: [tros-zstd-vendor]
