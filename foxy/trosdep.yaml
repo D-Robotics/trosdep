@@ -16,6 +16,8 @@ hobot-dnn:
   ubuntu: [hobot-dnn]
 hobot-multimedia-dev:
   ubuntu: [hobot-multimedia-dev]
+hobot_cv:
+  ubuntu: [tros-hobot-cv]
 hobot_llm:
   ubuntu: [tros-hobot-llm]
 hobot_tts:
