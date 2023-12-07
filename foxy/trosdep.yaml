@@ -62,5 +62,7 @@ sqlite3_vendor:
   ubuntu: [tros-sqlite3-vendor]
 trigger_node:
   ubuntu: [tros-trigger-node]
+trigger_node_example:
+  ubuntu: [tros-trigger-node-example]
 zstd_vendor:
   ubuntu: [tros-zstd-vendor]
