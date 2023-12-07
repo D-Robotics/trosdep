@@ -44,6 +44,8 @@ rclcpp:
   ubuntu: [tros-rclcpp]
 recorder_node:
   ubuntu: [tros-recorder-node]
+rgbd_sensor:
+  ubuntu: [tros-rgbd-sensor]
 rmw_cyclonedds_cpp:
   ubuntu: [tros-rmw-cyclonedds-cpp]
 ros_workspace:
