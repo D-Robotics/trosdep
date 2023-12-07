@@ -38,6 +38,8 @@ rosbag2_test_common:
   ubuntu: [tros-rosbag2-test-common]
 rosbag2_tests:
   ubuntu: [tros-rosbag2-tests]
+rosbag2_transport:
+  ubuntu: [tros-rosbag2-transport]
 shared_queues_vendor:
   ubuntu: [tros-shared-queues-vendor]
 sqlite3_vendor:
