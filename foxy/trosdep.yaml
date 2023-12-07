@@ -68,5 +68,7 @@ trigger_node:
   ubuntu: [tros-trigger-node]
 trigger_node_example:
   ubuntu: [tros-trigger-node-example]
+websocket:
+  ubuntu: [tros-websocket]
 zstd_vendor:
   ubuntu: [tros-zstd-vendor]
