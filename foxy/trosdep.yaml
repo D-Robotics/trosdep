@@ -22,6 +22,8 @@ hobot_llm:
   ubuntu: [tros-hobot-llm]
 hobot_tts:
   ubuntu: [tros-hobot-tts]
+imu_sensor:
+  ubuntu: [tros-imu-sensor]
 rcl:
   ubuntu: [tros-rcl]
 rcl_interfaces:
