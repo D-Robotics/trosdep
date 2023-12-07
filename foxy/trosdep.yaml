@@ -30,6 +30,8 @@ hobot_llm:
   ubuntu: [tros-hobot-llm]
 hobot_tts:
   ubuntu: [tros-hobot-tts]
+hobot_usb_cam:
+  ubuntu: [tros-hobot-usb-cam]
 img_msgs:
   ubuntu: [tros-img-msgs]
 imu_sensor:
