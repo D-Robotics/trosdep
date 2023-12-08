@@ -28,6 +28,8 @@ hobot_hdmi:
   ubuntu: [tros-hobot-hdmi]
 hobot_llm:
   ubuntu: [tros-hobot-llm]
+hobot_mot:
+  ubuntu: [tros-hobot-mot]
 hobot_tts:
   ubuntu: [tros-hobot-tts]
 hobot_usb_cam:
