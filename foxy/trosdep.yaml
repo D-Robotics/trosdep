@@ -28,6 +28,8 @@ hobot_cv:
   ubuntu: [tros-hobot-cv]
 hobot_hdmi:
   ubuntu: [tros-hobot-hdmi]
+hobot_image_publisher:
+  ubuntu: [tros-hobot-image-publisher]
 hobot_llm:
   ubuntu: [tros-hobot-llm]
 hobot_mot:
