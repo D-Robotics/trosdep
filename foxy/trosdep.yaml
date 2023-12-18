@@ -40,6 +40,8 @@ hobot_tts:
   ubuntu: [tros-hobot-tts]
 hobot_usb_cam:
   ubuntu: [tros-hobot-usb-cam]
+hobot_vio:
+  ubuntu: [tros-hobot-vio]
 image_geometry:
   ubuntu: [tros-image-geometry]
 img_msgs:
