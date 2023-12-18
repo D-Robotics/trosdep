@@ -54,6 +54,8 @@ imu_sensor:
   ubuntu: [tros-imu-sensor]
 mipi_cam:
   ubuntu: [tros-mipi-cam]
+mono2d_body_detection:
+  ubuntu: [tros-mono2d-body-detection]
 opencv_tests:
   ubuntu: [tros-opencv-tests]
 parking_perception:
