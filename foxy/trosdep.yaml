@@ -14,6 +14,8 @@ dnn_benchmark_example:
   ubuntu: [tros-dnn-benchmark-example]
 dnn_node:
   ubuntu: [tros-dnn-node]
+dnn_node_sample:
+  ubuntu: [tros-dnn-node-sample]
 elevation_net:
   ubuntu: [tros-elevation-net]
 hbm_img_msgs:
