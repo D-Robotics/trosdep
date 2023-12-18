@@ -58,6 +58,8 @@ opencv_tests:
   ubuntu: [tros-opencv-tests]
 parking_perception:
   ubuntu: [tros-parking-perception]
+parking_search:
+  ubuntu: [tros-parking-search]
 rcl:
   ubuntu: [tros-rcl]
 rcl_interfaces:
