@@ -46,6 +46,8 @@ imu_sensor:
   ubuntu: [tros-imu-sensor]
 mipi_cam:
   ubuntu: [tros-mipi-cam]
+opencv_tests:
+  ubuntu: [tros-opencv-tests]
 rcl:
   ubuntu: [tros-rcl]
 rcl_interfaces:
