@@ -34,6 +34,8 @@ hobot_codec:
   ubuntu: [tros-hobot-codec]
 hobot_cv:
   ubuntu: [tros-hobot-cv]
+hobot_falldown_detection:
+  ubuntu: [tros-hobot-falldown-detection]
 hobot_hdmi:
   ubuntu: [tros-hobot-hdmi]
 hobot_image_publisher:
