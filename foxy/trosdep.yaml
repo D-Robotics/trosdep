@@ -70,6 +70,8 @@ imu_sensor:
   ubuntu: [tros-imu-sensor]
 line_follower_model:
   ubuntu: [tros-line-follower-model]
+line_follower_perception:
+  ubuntu: [tros-line-follower-perception]
 mipi_cam:
   ubuntu: [tros-mipi-cam]
 mono2d_body_detection:
