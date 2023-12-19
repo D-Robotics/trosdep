@@ -20,6 +20,8 @@ dnn_node_sample:
   ubuntu: [tros-dnn-node-sample]
 elevation_net:
   ubuntu: [tros-elevation-net]
+gesture_control:
+  ubuntu: [tros-gesture-control]
 hand_gesture_detection:
   ubuntu: [tros-hand-gesture-detection]
 hand_lmk_detection:
