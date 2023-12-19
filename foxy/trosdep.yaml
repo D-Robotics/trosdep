@@ -34,6 +34,8 @@ hobot-dnn:
   ubuntu: [hobot-dnn]
 hobot-multimedia-dev:
   ubuntu: [hobot-multimedia-dev]
+hobot_app_xrrobot_body_tracking:
+  ubuntu: [tros-hobot-app-xrrobot-body-tracking]
 hobot_app_xrrobot_gesture_control:
   ubuntu: [tros-hobot-app-xrrobot-gesture-control]
 hobot_audio:
