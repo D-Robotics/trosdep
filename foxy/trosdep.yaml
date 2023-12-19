@@ -20,6 +20,8 @@ dnn_node_sample:
   ubuntu: [tros-dnn-node-sample]
 elevation_net:
   ubuntu: [tros-elevation-net]
+hand_gesture_detection:
+  ubuntu: [tros-hand-gesture-detection]
 hand_lmk_detection:
   ubuntu: [tros-hand-lmk-detection]
 hbm_img_msgs:
