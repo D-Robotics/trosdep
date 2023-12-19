@@ -84,6 +84,8 @@ opencv_tests:
   ubuntu: [tros-opencv-tests]
 orb_slam3:
   ubuntu: [tros-orb-slam3]
+orb_slam3_example_ros2:
+  ubuntu: [tros-orb-slam3-example-ros2]
 parking_perception:
   ubuntu: [tros-parking-perception]
 parking_search:
