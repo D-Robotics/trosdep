@@ -60,6 +60,8 @@ mipi_cam:
   ubuntu: [tros-mipi-cam]
 mono2d_body_detection:
   ubuntu: [tros-mono2d-body-detection]
+mono3d_indoor_detection:
+  ubuntu: [tros-mono3d-indoor-detection]
 opencv_tests:
   ubuntu: [tros-opencv-tests]
 parking_perception:
