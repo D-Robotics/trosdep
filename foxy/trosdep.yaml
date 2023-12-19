@@ -56,6 +56,8 @@ hobot_usb_cam:
   ubuntu: [tros-hobot-usb-cam]
 hobot_vio:
   ubuntu: [tros-hobot-vio]
+hobot_visualization:
+  ubuntu: [tros-hobot-visualization]
 image_geometry:
   ubuntu: [tros-image-geometry]
 img_msgs:
