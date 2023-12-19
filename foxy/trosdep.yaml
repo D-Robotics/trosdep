@@ -82,6 +82,8 @@ mono3d_indoor_detection:
   ubuntu: [tros-mono3d-indoor-detection]
 opencv_tests:
   ubuntu: [tros-opencv-tests]
+orb_slam3:
+  ubuntu: [tros-orb-slam3]
 parking_perception:
   ubuntu: [tros-parking-perception]
 parking_search:
