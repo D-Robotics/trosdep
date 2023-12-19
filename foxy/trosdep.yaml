@@ -122,5 +122,7 @@ vision_opencv:
   ubuntu: [tros-vision-opencv]
 websocket:
   ubuntu: [tros-websocket]
+xrrobot_msgs:
+  ubuntu: [tros-xrrobot-msgs]
 zstd_vendor:
   ubuntu: [tros-zstd-vendor]
