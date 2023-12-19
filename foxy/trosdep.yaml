@@ -68,6 +68,8 @@ img_msgs:
   ubuntu: [tros-img-msgs]
 imu_sensor:
   ubuntu: [tros-imu-sensor]
+line_follower_model:
+  ubuntu: [tros-line-follower-model]
 mipi_cam:
   ubuntu: [tros-mipi-cam]
 mono2d_body_detection:
