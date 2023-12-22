@@ -60,8 +60,6 @@ hobot_vio:
   ubuntu: [tros-hobot-vio]
 hobot_visualization:
   ubuntu: [tros-hobot-visualization]
-image_geometry:
-  ubuntu: [tros-image-geometry]
 img_msgs:
   ubuntu: [tros-img-msgs]
 imu_sensor:
