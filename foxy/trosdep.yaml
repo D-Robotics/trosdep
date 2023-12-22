@@ -102,8 +102,6 @@ rmw_cyclonedds_cpp:
   ubuntu: [tros-rmw-cyclonedds-cpp]
 ros_workspace:
   ubuntu: [tros-ros-workspace]
-rosbag2_tests:
-  ubuntu: [tros-rosbag2-tests]
 rosbag2_transport:
   ubuntu: [tros-rosbag2-transport]
 shared_queues_vendor:
