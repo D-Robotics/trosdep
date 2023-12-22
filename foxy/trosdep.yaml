@@ -10,8 +10,6 @@ bag_recorder_nodes:
   ubuntu: [tros-bag-recorder-nodes]
 body_tracking:
   ubuntu: [tros-body-tracking]
-cv_bridge:
-  ubuntu: [tros-cv-bridge]
 dnn_benchmark_example:
   ubuntu: [tros-dnn-benchmark-example]
 dnn_node:
