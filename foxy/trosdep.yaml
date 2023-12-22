@@ -112,5 +112,3 @@ xrrobot:
   ubuntu: [tros-xrrobot]
 xrrobot_msgs:
   ubuntu: [tros-xrrobot-msgs]
-zstd_vendor:
-  ubuntu: [tros-zstd-vendor]
