@@ -6,8 +6,6 @@ audio_msg:
   ubuntu: [tros-audio-msg]
 audio_tracking:
   ubuntu: [tros-audio-tracking]
-bag_recorder_nodes:
-  ubuntu: [tros-bag-recorder-nodes]
 base:
   ubuntu: [tros-base]
 body_tracking:
