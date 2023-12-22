@@ -42,6 +42,8 @@ hobot_app_xrrobot_gesture_control:
   ubuntu: [tros-hobot-app-xrrobot-gesture-control]
 hobot_audio:
   ubuntu: [tros-hobot-audio]
+hobot_chatbot:
+  ubuntu: [tros-hobot-chatbot]
 hobot_codec:
   ubuntu: [tros-hobot-codec]
 hobot_cv:
