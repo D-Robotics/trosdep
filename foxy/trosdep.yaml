@@ -30,6 +30,8 @@ hbm_img_msgs:
   ubuntu: [tros-hbm-img-msgs]
 hobot-dnn:
   ubuntu: [hobot-dnn]
+hobot-models-basic:
+  ubuntu: [hobot-models-basic]
 hobot-multimedia-dev:
   ubuntu: [hobot-multimedia-dev]
 hobot_app_xrrobot_body_tracking:
