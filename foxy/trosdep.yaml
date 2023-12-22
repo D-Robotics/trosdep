@@ -124,8 +124,6 @@ trigger_node:
   ubuntu: [tros-trigger-node]
 trigger_node_example:
   ubuntu: [tros-trigger-node-example]
-vision_opencv:
-  ubuntu: [tros-vision-opencv]
 websocket:
   ubuntu: [tros-websocket]
 xrrobot:
