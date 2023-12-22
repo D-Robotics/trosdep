@@ -102,8 +102,6 @@ rmw_cyclonedds_cpp:
   ubuntu: [tros-rmw-cyclonedds-cpp]
 ros_workspace:
   ubuntu: [tros-ros-workspace]
-sqlite3_vendor:
-  ubuntu: [tros-sqlite3-vendor]
 trigger_node:
   ubuntu: [tros-trigger-node]
 trigger_node_example:
