@@ -102,8 +102,6 @@ rmw_cyclonedds_cpp:
   ubuntu: [tros-rmw-cyclonedds-cpp]
 ros_workspace:
   ubuntu: [tros-ros-workspace]
-rosbag2_storage_default_plugins:
-  ubuntu: [tros-rosbag2-storage-default-plugins]
 rosbag2_storage_mcap_testdata:
   ubuntu: [tros-rosbag2-storage-mcap-testdata]
 rosbag2_test_common:
