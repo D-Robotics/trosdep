@@ -76,8 +76,6 @@ mono2d_trash_detection:
   ubuntu: [tros-mono2d-trash-detection]
 mono3d_indoor_detection:
   ubuntu: [tros-mono3d-indoor-detection]
-opencv_tests:
-  ubuntu: [tros-opencv-tests]
 orb_slam3:
   ubuntu: [tros-orb-slam3]
 orb_slam3_example_ros2:
