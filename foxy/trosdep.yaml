@@ -8,6 +8,8 @@ audio_tracking:
   ubuntu: [tros-audio-tracking]
 bag_recorder_nodes:
   ubuntu: [tros-bag-recorder-nodes]
+base:
+  ubuntu: [tros-base]
 body_tracking:
   ubuntu: [tros-body-tracking]
 dnn_benchmark_example:
