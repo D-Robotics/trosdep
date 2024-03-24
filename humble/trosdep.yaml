@@ -29,11 +29,11 @@ hand_lmk_detection:
 hbm_img_msgs:
   ubuntu: [tros-humble-hbm-img-msgs]
 hobot-dnn:
-  ubuntu: [hobot-humble-dnn]
+  ubuntu: [hobot-dnn]
 hobot-models-basic:
-  ubuntu: [hobot-humble-models-basic]
+  ubuntu: [hobot-models-basic]
 hobot-multimedia-dev:
-  ubuntu: [hobot-humble-multimedia-dev]
+  ubuntu: [hobot-multimedia-dev]
 hobot_app_xrrobot_body_tracking:
   ubuntu: [tros-humble-hobot-app-xrrobot-body-tracking]
 hobot_app_xrrobot_gesture_control:
