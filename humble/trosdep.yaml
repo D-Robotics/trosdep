@@ -34,10 +34,6 @@ hobot-models-basic:
   ubuntu: [hobot-models-basic]
 hobot-multimedia-dev:
   ubuntu: [hobot-multimedia-dev]
-hobot_app_xrrobot_body_tracking:
-  ubuntu: [tros-humble-hobot-app-xrrobot-body-tracking]
-hobot_app_xrrobot_gesture_control:
-  ubuntu: [tros-humble-hobot-app-xrrobot-gesture-control]
 hobot_audio:
   ubuntu: [tros-humble-hobot-audio]
 hobot_chatbot:
@@ -56,7 +52,7 @@ hobot_llm:
   ubuntu: [tros-humble-hobot-llm]
 hobot_mot:
   ubuntu: [tros-humble-hobot-mot]
-hobot_tts:
+hobot_tts: ?
   ubuntu: [tros-humble-hobot-tts]
 hobot_usb_cam:
   ubuntu: [tros-humble-hobot-usb-cam]
@@ -72,8 +68,6 @@ line_follower_model:
   ubuntu: [tros-humble-line-follower-model]
 line_follower_perception:
   ubuntu: [tros-humble-line-follower-perception]
-mcap_vendor:
-  ubuntu: [tros-humble-mcap-vendor]
 mipi_cam:
   ubuntu: [tros-humble-mipi-cam]
 mono2d_body_detection:
@@ -82,29 +76,19 @@ mono2d_trash_detection:
   ubuntu: [tros-humble-mono2d-trash-detection]
 mono3d_indoor_detection:
   ubuntu: [tros-humble-mono3d-indoor-detection]
-orb_slam3:
-  ubuntu: [tros-humble-orb-slam3]
-orb_slam3_example_ros2:
-  ubuntu: [tros-humble-orb-slam3-example-ros2]
 parking_perception:
   ubuntu: [tros-humble-parking-perception]
 parking_search:
   ubuntu: [tros-humble-parking-search]
-recorder_node:
-  ubuntu: [tros-humble-recorder-node]
 rgbd_sensor:
   ubuntu: [tros-humble-rgbd-sensor]
-rmw_cyclonedds_cpp:
-  ubuntu: [tros-humble-rmw-cyclonedds-cpp]
 ros_workspace:
   ubuntu: [tros-humble-ros-workspace]
-trigger_node:
-  ubuntu: [tros-humble-trigger-node]
-trigger_node_example:
-  ubuntu: [tros-humble-trigger-node-example]
 websocket:
   ubuntu: [tros-humble-websocket]
-xrrobot:
-  ubuntu: [tros-humble-xrrobot]
-xrrobot_msgs:
-  ubuntu: [tros-humble-xrrobot-msgs]
+performance_report: 
+  ubuntu: [tros-humble-performance_report]
+hobot_shm:
+  ubuntu: [tros-humble-hobot_shm]
+hobot_stereo_usb_cam:
+  ubuntu: [tros-humble-hobot_stereo_usb_cam]
