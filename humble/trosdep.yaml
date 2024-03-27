@@ -52,7 +52,7 @@ hobot_llm:
   ubuntu: [tros-humble-hobot-llm]
 hobot_mot:
   ubuntu: [tros-humble-hobot-mot]
-hobot_tts: ?
+hobot_tts:
   ubuntu: [tros-humble-hobot-tts]
 hobot_usb_cam:
   ubuntu: [tros-humble-hobot-usb-cam]
