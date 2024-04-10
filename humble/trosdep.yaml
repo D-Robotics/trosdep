@@ -52,6 +52,8 @@ hobot_llm:
   ubuntu: [tros-humble-hobot-llm]
 hobot_mot:
   ubuntu: [tros-humble-hobot-mot]
+hobot_shm:
+  ubuntu: [tros-humble-hobot_shm]
 hobot_tts:
   ubuntu: [tros-humble-hobot-tts]
 hobot_usb_cam:
@@ -88,7 +90,23 @@ websocket:
   ubuntu: [tros-humble-websocket]
 performance_report: 
   ubuntu: [tros-humble-performance_report]
-hobot_shm:
-  ubuntu: [tros-humble-hobot_shm]
 hobot_stereo_usb_cam:
   ubuntu: [tros-humble-hobot_stereo_usb_cam]
+recorder_node:
+  ubuntu: [tros-humble-recorder_node]
+trigger_node:
+  ubuntu: [tros-humble-trigger_node]
+trigger_node_example:
+  ubuntu: [tros-humble-trigger_node_example]
+hobot_centerpoint:
+  ubuntu: [tros-humble-hobot_centerpoint]
+hobot_bev:
+  ubuntu: [tros-humble-hobot_bev]
+hobot_stereonet:
+  ubuntu: [tros-humble-hobot_stereonet]
+orb_slam3:
+  ubuntu: [tros-humble-orb_slam3]
+orb_slam3_example_ros2:
+  ubuntu: [tros-humble-orb_slam3_example_ros2]
+  
+
