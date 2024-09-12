@@ -108,5 +108,21 @@ orb_slam3:
   ubuntu: [tros-humble-orb-slam3]
 orb_slam3_example_ros2:
   ubuntu: [tros-humble-orb-slam3-example-ros2]
-  
+clip_msgs:
+  ubuntu: [tros-humble-clip-msgs]
+clip_manage:
+  ubuntu: [tros-humble-clip-manage]
+hobot_yolo_world:
+  ubuntu: [tros-humble-hobot-yolo-world]
+mono_mobilesam:
+  ubuntu: [tros-humble-mono-mobilesam]
+mono_pwcnet:
+  ubuntu: [tros-humble-mono-pwcnet]
+clip_encode_image:
+  ubuntu: [tros-humble-clip-encode-image]
+clip_encode_text:
+  ubuntu: [tros-humble-clip-encode-text]
+stereonet_model:
+  ubuntu: [tros-humble-stereonet-model]
+ 
 
