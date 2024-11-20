@@ -137,5 +137,5 @@ face_age_detection:
 face_landmarks_detection:
   ubuntu: [tros-humble-face-landmarks-detection]
 hobot_stereonet_utils:
-  ubuntu: [tros-humble-hobot-stereonetutils]
+  ubuntu: [tros-humble-hobot-stereonet-utils]
 
