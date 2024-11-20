@@ -126,5 +126,7 @@ stereonet_model:
   ubuntu: [tros-humble-stereonet-model]
 hobot_yolo_world:
   ubuntu: [tros-humble-hobot-yolo-world]
+hobot_rtsp_client:
+  ubuntu: [tros-humble-hobot-rtsp-client]
  
 
