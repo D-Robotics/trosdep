@@ -128,5 +128,6 @@ hobot_yolo_world:
   ubuntu: [tros-humble-hobot-yolo-world]
 hobot_rtsp_client:
   ubuntu: [tros-humble-hobot-rtsp-client]
- 
+tros_perception_fusion_msgs:
+  ubuntu: [tros-humble-tros-perception-fusion-msgs]
 
