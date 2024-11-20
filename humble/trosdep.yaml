@@ -122,12 +122,20 @@ clip_encode_image:
   ubuntu: [tros-humble-clip-encode-image]
 clip_encode_text:
   ubuntu: [tros-humble-clip-encode-text]
-stereonet_model:
-  ubuntu: [tros-humble-stereonet-model]
 hobot_yolo_world:
   ubuntu: [tros-humble-hobot-yolo-world]
 hobot_rtsp_client:
   ubuntu: [tros-humble-hobot-rtsp-client]
 tros_perception_fusion_msgs:
   ubuntu: [tros-humble-tros-perception-fusion-msgs]
+tros_perception_fusion:
+  ubuntu: [tros-humble-tros-perception-fusion]
+tros_lowpass_filter:
+  ubuntu: [tros-humble-tros-lowpass-filter]
+face_age_detection:
+  ubuntu: [tros-humble-face-age-detection]
+face_landmarks_detection:
+  ubuntu: [tros-humble-face-landmarks-detection]
+hobot_stereonet_utils:
+  ubuntu: [tros-humble-hobot-stereonetutils]
 
