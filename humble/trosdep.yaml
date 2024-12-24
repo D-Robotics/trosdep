@@ -138,4 +138,6 @@ face_landmarks_detection:
   ubuntu: [tros-humble-face-landmarks-detection]
 hobot_stereonet_utils:
   ubuntu: [tros-humble-hobot-stereonet-utils]
+hobot_zed_cam:
+  ubuntu: [tros-humble-hobot-zed-cam]
 
