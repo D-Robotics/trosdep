@@ -140,4 +140,8 @@ hobot_stereonet_utils:
   ubuntu: [tros-humble-hobot-stereonet-utils]
 hobot_zed_cam:
   ubuntu: [tros-humble-hobot-zed-cam]
+sensevoice_ros2:
+  ubuntu: [tros-humble-sensevoice-ros2]
+hobot_llamacpp:
+  ubuntu: [tros-humble-hobot-llamacpp]
 
