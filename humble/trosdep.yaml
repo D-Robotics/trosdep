@@ -144,4 +144,10 @@ sensevoice_ros2:
   ubuntu: [tros-humble-sensevoice-ros2]
 hobot_llamacpp:
   ubuntu: [tros-humble-hobot-llamacpp]
+dstereo_occnet:
+  ubuntu: [tros-humble-dstereo-occnet]
+mono_edgesam:
+  ubuntu: [tros-humble-mono-edgesam]
+reid:
+  ubuntu: [tros-humble-reid]
 
