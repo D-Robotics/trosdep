@@ -150,4 +150,10 @@ mono_edgesam:
   ubuntu: [tros-humble-mono-edgesam]
 reid:
   ubuntu: [tros-humble-reid]
+palm_detection_mediapipe:
+  ubuntu: [tros-humble-palm-detection-mediapipe]
+hand_landmarks_mediapipe:
+  ubuntu: [tros-humble-hand-landmarks-mediapipe]
+hobot_xlm:
+  ubuntu: [tros-humble-hobot-xlm]
 
