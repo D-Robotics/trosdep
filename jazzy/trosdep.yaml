@@ -1,0 +1,159 @@
+ai_msgs:
+  ubuntu: [tros-jazzy-ai-msgs]
+audio_control:
+  ubuntu: [tros-jazzy-audio-control]
+audio_msg:
+  ubuntu: [tros-jazzy-audio-msg]
+audio_tracking:
+  ubuntu: [tros-jazzy-audio-tracking]
+base:
+  ubuntu: [tros-jazzy-base]
+body_tracking:
+  ubuntu: [tros-jazzy-body-tracking]
+dnn_benchmark_example:
+  ubuntu: [tros-jazzy-dnn-benchmark-example]
+dnn_node:
+  ubuntu: [tros-jazzy-dnn-node]
+dnn_node_example:
+  ubuntu: [tros-jazzy-dnn-node-example]
+dnn_node_sample:
+  ubuntu: [tros-jazzy-dnn-node-sample]
+elevation_net:
+  ubuntu: [tros-jazzy-elevation-net]
+gesture_control:
+  ubuntu: [tros-jazzy-gesture-control]
+hand_gesture_detection:
+  ubuntu: [tros-jazzy-hand-gesture-detection]
+hand_lmk_detection:
+  ubuntu: [tros-jazzy-hand-lmk-detection]
+hbm_img_msgs:
+  ubuntu: [tros-jazzy-hbm-img-msgs]
+hobot-dnn:
+  ubuntu: [hobot-dnn]
+hobot-models-basic:
+  ubuntu: [hobot-models-basic]
+hobot-multimedia-dev:
+  ubuntu: [hobot-multimedia-dev]
+hobot_audio:
+  ubuntu: [tros-jazzy-hobot-audio]
+hobot_chatbot:
+  ubuntu: [tros-jazzy-hobot-chatbot]
+hobot_codec:
+  ubuntu: [tros-jazzy-hobot-codec]
+hobot_cv:
+  ubuntu: [tros-jazzy-hobot-cv]
+hobot_falldown_detection:
+  ubuntu: [tros-jazzy-hobot-falldown-detection]
+hobot_hdmi:
+  ubuntu: [tros-jazzy-hobot-hdmi]
+hobot_image_publisher:
+  ubuntu: [tros-jazzy-hobot-image-publisher]
+hobot_llm:
+  ubuntu: [tros-jazzy-hobot-llm]
+hobot_mot:
+  ubuntu: [tros-jazzy-hobot-mot]
+hobot_shm:
+  ubuntu: [tros-jazzy-hobot-shm]
+hobot_tts:
+  ubuntu: [tros-jazzy-hobot-tts]
+hobot_usb_cam:
+  ubuntu: [tros-jazzy-hobot-usb-cam]
+hobot_vio:
+  ubuntu: [tros-jazzy-hobot-vio]
+hobot_visualization:
+  ubuntu: [tros-jazzy-hobot-visualization]
+img_msgs:
+  ubuntu: [tros-jazzy-img-msgs]
+imu_sensor:
+  ubuntu: [tros-jazzy-imu-sensor]
+line_follower_model:
+  ubuntu: [tros-jazzy-line-follower-model]
+line_follower_perception:
+  ubuntu: [tros-jazzy-line-follower-perception]
+mipi_cam:
+  ubuntu: [tros-jazzy-mipi-cam]
+mono2d_body_detection:
+  ubuntu: [tros-jazzy-mono2d-body-detection]
+mono2d_trash_detection:
+  ubuntu: [tros-jazzy-mono2d-trash-detection]
+mono3d_indoor_detection:
+  ubuntu: [tros-jazzy-mono3d-indoor-detection]
+parking_perception:
+  ubuntu: [tros-jazzy-parking-perception]
+parking_search:
+  ubuntu: [tros-jazzy-parking-search]
+rgbd_sensor:
+  ubuntu: [tros-jazzy-rgbd-sensor]
+ros_workspace:
+  ubuntu: [tros-jazzy-ros-workspace]
+websocket:
+  ubuntu: [tros-jazzy-websocket]
+performance_report: 
+  ubuntu: [tros-jazzy-performance-report]
+hobot_stereo_usb_cam:
+  ubuntu: [tros-jazzy-hobot_stereo-usb-cam]
+recorder_node:
+  ubuntu: [tros-jazzy-recorder-node]
+trigger_node:
+  ubuntu: [tros-jazzy-trigger-node]
+trigger_node_example:
+  ubuntu: [tros-jazzy-trigger-node-example]
+hobot_centerpoint:
+  ubuntu: [tros-jazzy-hobot-centerpoint]
+hobot_bev:
+  ubuntu: [tros-jazzy-hobot-bev]
+hobot_stereonet:
+  ubuntu: [tros-jazzy-hobot-stereonet]
+orb_slam3:
+  ubuntu: [tros-jazzy-orb-slam3]
+orb_slam3_example_ros2:
+  ubuntu: [tros-jazzy-orb-slam3-example-ros2]
+clip_msgs:
+  ubuntu: [tros-jazzy-clip-msgs]
+clip_manage:
+  ubuntu: [tros-jazzy-clip-manage]
+hobot_yolo_world:
+  ubuntu: [tros-jazzy-hobot-yolo-world]
+mono_mobilesam:
+  ubuntu: [tros-jazzy-mono-mobilesam]
+mono_pwcnet:
+  ubuntu: [tros-jazzy-mono-pwcnet]
+clip_encode_image:
+  ubuntu: [tros-jazzy-clip-encode-image]
+clip_encode_text:
+  ubuntu: [tros-jazzy-clip-encode-text]
+hobot_dosod:
+  ubuntu: [tros-jazzy-hobot-dosod]
+hobot_rtsp_client:
+  ubuntu: [tros-jazzy-hobot-rtsp-client]
+tros_perception_fusion_msgs:
+  ubuntu: [tros-jazzy-tros-perception-fusion-msgs]
+tros_perception_fusion:
+  ubuntu: [tros-jazzy-tros-perception-fusion]
+tros_lowpass_filter:
+  ubuntu: [tros-jazzy-tros-lowpass-filter]
+face_age_detection:
+  ubuntu: [tros-jazzy-face-age-detection]
+face_landmarks_detection:
+  ubuntu: [tros-jazzy-face-landmarks-detection]
+hobot_stereonet_utils:
+  ubuntu: [tros-jazzy-hobot-stereonet-utils]
+hobot_zed_cam:
+  ubuntu: [tros-jazzy-hobot-zed-cam]
+sensevoice_ros2:
+  ubuntu: [tros-jazzy-sensevoice-ros2]
+hobot_llamacpp:
+  ubuntu: [tros-jazzy-hobot-llamacpp]
+dstereo_occnet:
+  ubuntu: [tros-jazzy-dstereo-occnet]
+mono_edgesam:
+  ubuntu: [tros-jazzy-mono-edgesam]
+reid:
+  ubuntu: [tros-jazzy-reid]
+palm_detection_mediapipe:
+  ubuntu: [tros-jazzy-palm-detection-mediapipe]
+hand_landmarks_mediapipe:
+  ubuntu: [tros-jazzy-hand-landmarks-mediapipe]
+hobot_xlm:
+  ubuntu: [tros-jazzy-hobot-xlm]
+
