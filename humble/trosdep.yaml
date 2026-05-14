@@ -148,6 +148,10 @@ dstereo_occnet:
   ubuntu: [tros-humble-dstereo-occnet]
 mono_edgesam:
   ubuntu: [tros-humble-mono-edgesam]
+mono_mobilesam:
+  ubuntu: [tros-humble-mono-mobilesam]
+mono_edgetam_prompt:
+  ubuntu: [tros-humble-mono-edgetam-prompt]
 reid:
   ubuntu: [tros-humble-reid]
 palm_detection_mediapipe:
