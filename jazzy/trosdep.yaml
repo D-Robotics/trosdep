@@ -148,6 +148,10 @@ dstereo_occnet:
   ubuntu: [tros-jazzy-dstereo-occnet]
 mono_edgesam:
   ubuntu: [tros-jazzy-mono-edgesam]
+mono_mobilesam:
+  ubuntu: [tros-jazzy-mono-mobilesam]
+mono_edgetam_prompt:
+  ubuntu: [tros-jazzy-mono-edgetam-prompt]
 reid:
   ubuntu: [tros-jazzy-reid]
 palm_detection_mediapipe:
