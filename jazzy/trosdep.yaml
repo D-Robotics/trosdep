@@ -152,6 +152,8 @@ mono_mobilesam:
   ubuntu: [tros-jazzy-mono-mobilesam]
 mono_edgetam_prompt:
   ubuntu: [tros-jazzy-mono-edgetam-prompt]
+mono_edgetam_track:
+  ubuntu: [tros-jazzy-mono-edgetam-track]
 reid:
   ubuntu: [tros-jazzy-reid]
 palm_detection_mediapipe:

@@ -152,6 +152,8 @@ mono_mobilesam:
   ubuntu: [tros-humble-mono-mobilesam]
 mono_edgetam_prompt:
   ubuntu: [tros-humble-mono-edgetam-prompt]
+mono_edgetam_track:
+  ubuntu: [tros-humble-mono-edgetam-track]
 reid:
   ubuntu: [tros-humble-reid]
 palm_detection_mediapipe:
