@@ -162,4 +162,10 @@ hand_landmarks_mediapipe:
   ubuntu: [tros-humble-hand-landmarks-mediapipe]
 hobot_xlm:
   ubuntu: [tros-humble-hobot-xlm]
+speech_agent_asr:
+  ubuntu: [tros-humble-speech-agent-asr]
+speech_agent_audio:
+  ubuntu: [tros-humble-speech-agent-audio]
+speech_agent_tts:
+  ubuntu: [tros-humble-speech-agent-tts]
 
